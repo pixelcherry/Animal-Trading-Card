@@ -1,0 +1,35 @@
+body {
+  font-family: 'arial, helvetica', sans-serif;
+  font-size: 14px;
+}
+  .container {
+  width: 300px;
+  height: 600px;
+  border: 1px solid;
+  border-color: lightgray;
+  padding: 10px;
+  box-shadow: 4px 4px 4px #ddd;
+}
+  .content {
+    text-align: left;
+    border: 1px solid;
+    border-color: lightgray;
+    padding: 10px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .image {
+  width: auto;
+  height: auto;
+}
+img {
+  display: block;
+  max-width: 300px ;
+  max-height: 200px;
+  padding-bottom: 10px;
+}
+    
